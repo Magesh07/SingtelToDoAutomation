@@ -33,7 +33,7 @@ Windows->Preferences->Java->Installed JREs->Select the JDK as per the below scre
 
 Right-click on testng.xml file->RunAs->TestNGSuite
 
-###Reporters:
+## Reporters:
 Once you ran your tests you can get the test automation reports in below path:
 <ProjectFolder>\src\Reports\ExtendReports
  
