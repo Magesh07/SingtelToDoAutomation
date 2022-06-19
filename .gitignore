@@ -1,0 +1,8 @@
+/target/
+.settings
+.project
+STDOUT
+*.log
+/output
+.classpath
+/bin/
