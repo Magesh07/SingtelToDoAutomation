@@ -18,14 +18,22 @@ click Next Button->Select 'Import as general project'->Click on next button->cli
 Clone repository from here(https://github.com/Magesh07/SingtelToDoAutomation.git) from master branch or download zip and set it up in your local workspace.
 Update Maven Project By navigating to Right-click on the Project->Maven->UpdateProject->Ok
 
-![This is an image](https://github.com/Magesh07/SingtelToDoAutomation/blob/master/ReadMeImages/CloneProject.png)
+###### Steps
+
+![This is an image](https://github.com/Magesh07/SingtelToDoAutomation/blob/master/ReadMeImages/3.Select_Repo_Source.png)
+
+![This is an image](https://github.com/Magesh07/SingtelToDoAutomation/blob/master/ReadMeImages/2.SourceGit_Branch_Section.png)
+
+![This is an image](https://github.com/Magesh07/SingtelToDoAutomation/blob/master/ReadMeImages/1.LocalDest_To_ProjectImports.png)
+
+
 
 ###### Once project imported into package explorer do  the below steps:
 1. Select the Project->Right-click->Select configure->Convert to maven project(As given in the below screenshot)
 
 ![This is an image](https://github.com/Magesh07/SingtelToDoAutomation/blob/master/ReadMeImages/MavenProjectCovert.png)
 
-Run the Tests :
+###### Run the Tests :
 
 Windows->Preferences->Java->Installed JREs->Select the JDK as per the below screenshot(Only JDK should be mapped)
 
