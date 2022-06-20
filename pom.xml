@@ -28,11 +28,12 @@
 				<configuration>
 					<forkCount>2</forkCount>
 					<reuseForks>true</reuseForks>
-					<!-- <suiteXmlFiles> <suiteXmlFile>D:/BusinessApp/AndroidBusiness/src/test/resources/testng.xml</suiteXmlFile> 
-							</suiteXmlFiles> -->
-					<includes>
+					<suiteXmlFiles>
+						<suiteXmlFile>testng.xml</suiteXmlFile>
+					</suiteXmlFiles>
+					<!--<includes>
 						<include>**/RunnerClass.java</include>
-					</includes>
+					</includes>-->
 				</configuration>
 			</plugin>
 		</plugins>
