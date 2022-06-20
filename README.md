@@ -1,16 +1,16 @@
 # SingtelToDoAutomation
 
 ## Installation (pre-requisites)
-Minimum Java Version - JDK 11 (make sure Java class path is set)
-Minimum Maven apache-maven-3.3.3 (make sure .m2 class path is set)
-Eclipse(Version: 2022)
-Eclipse Plugins for
-TestNG for Eclipse
-Cucumber Eclipse Plugin
-Browser driver (make sure you have your chrome browser driver is placed in  \src\test\resources\Drivers)
+ 1. Minimum Java Version - JDK 11 (make sure Java class path is set)
+ 2. Minimum Maven apache-maven-3.3.3 (make sure .m2 class path is set)
+ 3. Eclipse(Version: 2022)
+ 4. Eclipse Plugins :
+       - TestNG for Eclipse
+       - Cucumber Eclipse Plugin
+ 5. Browser driver (Make sure you have your chrome browser driver is placed in '\src\test\resources\Drivers' path as per your local chromre browser version)
 
 ## Framework set up
-Open Eclipse->File->Import->Git->Select 'Project from  Git'->Click on Next Button->Clone URI->Paste the Clone URL mentioned below->
+ Open Eclipse->File->Import->Git->Select 'Project from  Git'->Click on Next Button->Clone URI->Paste the Clone URL mentioned below->
 click Next Button->Select 'Import as general project'->Click on next button->click on Finish Button
 
 ![This is an image](https://github.com/Magesh07/SingtelToDoAutomation/blob/master/ReadMeImages/FinishProject.png)
@@ -25,8 +25,6 @@ Update Maven Project By navigating to Right-click on the Project->Maven->UpdateP
 ![This is an image](https://github.com/Magesh07/SingtelToDoAutomation/blob/master/ReadMeImages/2.SourceGit_Branch_Section.png)
 
 ![This is an image](https://github.com/Magesh07/SingtelToDoAutomation/blob/master/ReadMeImages/LocalDestToProject.png)
-
-
 
 ###### Once project imported into package explorer do  the below steps:
 1. Select the Project->Right-click->Select configure->Convert to maven project(As given in the below screenshot)
