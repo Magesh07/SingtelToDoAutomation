@@ -24,7 +24,7 @@ Update Maven Project By navigating to Right-click on the Project->Maven->UpdateP
 
 ![This is an image](https://github.com/Magesh07/SingtelToDoAutomation/blob/master/ReadMeImages/2.SourceGit_Branch_Section.png)
 
-![This is an image](https://github.com/Magesh07/SingtelToDoAutomation/blob/master/ReadMeImages/1.LocalDest_To_ProjectImports.png)
+![This is an image](https://github.com/Magesh07/SingtelToDoAutomation/blob/master/ReadMeImages/LocalDestToProject.png)
 
 
 
