@@ -37,7 +37,9 @@ Windows->Preferences->Java->Installed JREs->Select the JDK as per the below scre
 
 ![This is an image](https://github.com/Magesh07/SingtelToDoAutomation/blob/master/ReadMeImages/JDKMapping.png)
 
-Right-click on testng.xml file->RunAs->TestNGSuite
+- Right-click on testng.xml file->RunAs->TestNGSuite
+   or 
+- Right-click on pom.xml file->RunAs->MavenTest
 
 ## Reporters:
 Once you ran your tests you can get the test automation reports in below path:
